@@ -1,7 +1,7 @@
 # Daily Script
 
 ### Setting
-- `pip install -r `
+- `pip install -r requirements.txt`
 - 使用@outlook.com, @hotmail.com等smtp服务器为: smtp.live.com的邮箱作为发件邮箱
 - edit setting.json and set:
     ```
